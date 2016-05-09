@@ -1,0 +1,17 @@
+{
+  "name": "ember-training-server",
+  "version": "1.0.0",
+  "description": "Ember training json server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "bmeurant <baptiste@meurant.io> (http://baptiste.meurant.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.8.12"
+  },
+  "engines": {
+    "node": "4.2.6"
+  }
+}
